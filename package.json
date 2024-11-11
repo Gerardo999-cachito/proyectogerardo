@@ -1,0 +1,12 @@
+{
+  "homepage": "http://Gerardo999-cachito.github.io/proyectogerardo",
+  "dependencies": {
+    "gh-pages": "^6.2.0",
+    "react-scripts": "^5.0.1"
+  },
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "build": "react-scripts build"
+  }
+}
