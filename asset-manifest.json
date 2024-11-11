@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Gerardo999-cachito/prueba702/static/css/main.914c9d3d.css",
+    "main.js": "/Gerardo999-cachito/prueba702/static/js/main.1e500310.js",
+    "static/js/453.ebcd9aff.chunk.js": "/Gerardo999-cachito/prueba702/static/js/453.ebcd9aff.chunk.js",
+    "index.html": "/Gerardo999-cachito/prueba702/index.html",
+    "main.914c9d3d.css.map": "/Gerardo999-cachito/prueba702/static/css/main.914c9d3d.css.map",
+    "main.1e500310.js.map": "/Gerardo999-cachito/prueba702/static/js/main.1e500310.js.map",
+    "453.ebcd9aff.chunk.js.map": "/Gerardo999-cachito/prueba702/static/js/453.ebcd9aff.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.914c9d3d.css",
+    "static/js/main.1e500310.js"
+  ]
+}
